@@ -76,3 +76,18 @@ section {
   width: 40px;
   height: 40px;
 }
+
+.btn {
+  background: var(--main-color);
+  color: #fff;
+  padding: 1rem 3rem;
+  font-size: 1.7rem;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+
+.home-container {
+  background: url("./img/home-img.jpg");
+  width: 100vh;
+}
